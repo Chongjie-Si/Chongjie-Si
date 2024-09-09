@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently a PhD student in Shanghai Jiao Tong University, China.
-- 🌱 I’m currently focused on Parameter Efficient Fine-tuning.
+- 🌱 I’m currently working on Parameter Efficient Fine-tuning.
 - 🎿 Hobbies: Music, snooker and photography. Always open to making new friends 🔭...
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
